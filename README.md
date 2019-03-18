@@ -11,6 +11,8 @@ The work was divided in the following steps:
 - Clustering;
 - Classification.
 
+Data can be found in finalissimo.csv
+
 Steps 2 to 4 were develped using WEKA. Weka is a collection of machine learning algorithms for data mining tasks. It contains tools for data preparation, classification, regression, clustering, association rules mining, and visualization.
 
 Step 5 was developed in python. It can be found in teste.py.
